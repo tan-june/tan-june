@@ -4,7 +4,7 @@ I am a sophomore at Computer Science major enrolled at Stony Brook University in
 
 I am actively seeking an internship in Software Engineering to growth within my field.
 
-Here is my [portfolio](https://tan-june.github.io/) and feel free to shoot me an [email](mailto:tsinghal0504@gmail.com).
+Here is my [portfolio](https://tan-june.github.io/) and feel free to send me an [email](mailto:tsinghal0504@gmail.com).
 
 <!---
 
