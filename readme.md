@@ -1,6 +1,6 @@
 # Hello! My name is Tanmay Singhal!
 
-I am a sophomore at Computer Science major enrolled at Stony Brook University in Stony Brook, NY. 
+I am a rising senior at Computer Science major enrolled at Stony Brook University in Stony Brook, NY. 
 
 I am actively seeking an internship in Software Engineering to growth within my field.
 
